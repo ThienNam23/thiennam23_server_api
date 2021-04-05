@@ -1,7 +1,7 @@
 # thiennam23_server_api
-*Important Files*
-++ input file
--- output file
+## Important Files
+> ++ input file
+> -- output file
 
 1. request.php: 									convert API from wit.ai return to Bot
  ++ keys.txt (important)								contains keys used by Bot
@@ -9,7 +9,7 @@
  -- data_log.api										log the keys api sent by Wit.ai to Bot
  
 2. messages.php: 									api log the messages
- - mess_to_admin_log.txt							log the messages sent by user to admin
+ -- mess_to_admin_log.txt							log the messages sent by user to admin
  
 3. /Users/add/addUser.php:							api add user information to database
 
