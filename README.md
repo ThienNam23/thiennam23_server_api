@@ -3,7 +3,7 @@
 > ++ input file<br/>
 > -- output file
 
-1. **request.php:** *convert API from wit.ai return to Bot*
+**1. request.php:** *convert API from wit.ai return to Bot*
   - **++ keys.txt (Important):**	*contains keys used by Bot*
   - **-- mess_log.api:**	*log the messages sent by Bot to Wit.ai*
   - **-- data_log.api:**	*log the keys api sent by Wit.ai to Bot*
